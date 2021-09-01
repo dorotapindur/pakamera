@@ -6,14 +6,13 @@ const content = document.querySelector(".content--js");
 bioButton.addEventListener('click', () => {
     bioButton.classList.add("inactive");
     content.style.display = "block";
-    content.innerHTML = `<p>Kwartet Smyczkowy Pakamera tworzą  artystki związane z&nbsp;Wrocławską Orkiestrą Kameralną NFM Leopoldinum.
-    Podczas wieloletniej współpracy z&nbsp;tym renomowanym zespołem  miały okazję doskonalić umiejętności w zakresie kameralistyki pod okiem wybitnych postaci sceny muzycznej - Ernsta Kovacica, Jerzego  Maksymiuka, Güntera Pichlera i&nbsp;wielu innych. 
+    content.innerHTML = `<p>Pakamera String Quartet consists of artists associated with the NFM Leopoldinum Chamber Orchestra from Wroclaw. During many years of cooperation with this renowned ensemble, they had the opportunity to improve their skills in the field of chamber music under the supervision of outstanding figures of the music scene - Ernst Kovacic, Jerzy Maksymiuk, Günter Pichler and many others.
     </p>
-    <p>Zespół Pakamera charakteryzuje otwartość na&nbsp;różne gatunki muzyczne - wykonuje muzykę klasyczną i&nbsp;współczesną, nie stroni też jednak od muzyki rozrywkowej. Artystki tworzące kwartet mają w&nbsp;swoim dorobku dużą liczbę nagrań dla potrzeb kina, teatru i&nbsp;telewizji oraz kooperacje z&nbsp;wykonawcami muzyki popularnej.</p>
+    <p>Pakamera quartet is characterized by openness to various musical genres - it performs classical and contemporary music, but also does not shy away from popular music. The artists forming the quartet have a large number of recordings for the needs of cinema, theatre and television, as well as cooperation with performers of popular music.</p>
     
-    <p>Łączące muzyków zamiłowanie do sztuki filmowej zaowocowało powstaniem projektu "Muzyka z&nbsp;ekranu". Kwartet prezentował muzykę filmową między innymi podczas festiwalu <i>Sensacyjne Lato Filmów</i> w&nbsp;Kołobrzegu oraz <i>American Film Festival</i> we&nbsp;Wrocławiu.</p> 
+    <p>The musicians' passion for the art of film resulted in the creation of the "Music from the Screen" project. The quartet presented film music, among others, during the <i>Sensational Summer of Films</i> festival in Kolobrzeg and the <i>American Film Festival</i> in Wroclaw.</p> 
     
-    <p>Inspiracją dla działalności zespołu jest chęć propagowania muzyki poważnej. Kwartet ma w&nbsp;swoim repertuarze wiele arcydzieł kameralistyki polskiej i&nbsp;światowej, chętnie  prezentuje też lżejsze oblicza klasyki.</p>`;
+    <p>The inspiration for the group's activity is the desire to promote classical music. The quartet has many masterpieces of Polish and world chamber music in its repertoire, and is also eager to present the lighter side of classics.</p>`;
     projectsButton.classList.remove("inactive");
     contactButton.classList.remove("inactive");
     }
