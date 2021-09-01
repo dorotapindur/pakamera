@@ -22,13 +22,6 @@ body {
     margin: 0;
     padding: 0;
 }
-button {
-    background: none;
-    border: none;
-    text-decoration: none;
-    margin: 0;
-    padding: 0;
-}
 p {
     margin: 0;
     padding: 0;
@@ -40,6 +33,7 @@ p {
 }
 .contact-link:hover {
     color: white;
+    cursor: pointer;
 }
 .main {
     margin: 0 auto;
@@ -106,9 +100,13 @@ p {
     bottom: 0;
 }
 .menu-button {
+    background: none;
+    border: none;
+    text-decoration: none;
     margin: 0;
     padding: 0;
     color: #d3d3d3;
+    cursor: pointer;
 }
 .inactive {
     color: #444444;
