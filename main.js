@@ -1,3 +1,6 @@
+let vh = window.innerHeight * 0.01;
+document.documentElement.style.setProperty('--vh', `${vh}px`);
+
 const bioButton = document.querySelector(".bio--js");
 const projectsButton = document.querySelector(".projects--js");
 const contactButton = document.querySelector(".contact--js");

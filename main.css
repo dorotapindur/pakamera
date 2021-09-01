@@ -7,7 +7,7 @@ html {
     margin: 0;
     padding: 0;
     background-color: black;
-    height: 100vh;
+    --vh: 100vh;
 }
 * {
     -webkit-font-smoothing: antialiased;
@@ -19,6 +19,8 @@ html {
 }
 body {
     width: 100vw;
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
     margin: 0;
     padding: 0;
 }
@@ -41,7 +43,7 @@ p {
     background-color: black;
     width: 100vw;
     max-width: 420px;
-    height: 100vh;
+    height: 100%;
     overflow-y: auto;
     background-image: url("background-photo.png");
     background-repeat: no-repeat;
@@ -61,7 +63,7 @@ p {
     text-decoration: none;
 }
 .main-header {
-    margin: 50vh 0 0 15px;
+    margin: 40vh 0 0 15px;
     padding: 0;
     font-size: 2rem;
     text-shadow: black 2px 2px 5px;
