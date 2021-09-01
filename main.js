@@ -23,21 +23,21 @@ projectsButton.addEventListener('click', () => {
     projectsButton.classList.add("inactive");
     content.style.display = "block";
     content.innerHTML = `
-    <p><b>Muzyka z ekranu</b><br>
-    - koncert muzyki filmowej.</p>
-
-    <p><b>Arcydzieła muzyki poważnej</b><br>
-    - najbardziej znane i uwielbiane przez publiczność kompozycje wybitnych twórców.</p>
+       <p><b>Arcydzieła muzyki poważnej</b><br>
+    - najbardziej znane i&nbsp;uwielbiane przez publiczność kompozycje wybitnych twórców.</p>
     
     <p><b>Koncert karnawałowy</b><br>
     -  od wystawnych sal balowych Wiednia po zmysłową atmosferę  argentyńskiego tanga.</p>
     
     <p><b>Koncert świąteczny</b><br>
-    - "Dziadek do orzechów" Piotra Czajkowskiego w wersji na kwartet smyczkowy.</p>
+    - "Dziadek do&nbsp;orzechów" Piotra Czajkowskiego w&nbsp;wersji na&nbsp;kwartet smyczkowy.</p>
     
     <p><b>Pory roku</b><br>
-    - 4 pory roku Antonio Vivaldiego w wersji na skrzypce solo z towarzyszeniem kwartetu smyczkowego.</p>
+    - "Cztery pory roku" Antonio Vivaldiego w&nbsp;wersji na&nbsp;skrzypce solo z&nbsp;towarzyszeniem kwartetu smyczkowego.</p>
     
+    <p><b>Muzyka z&nbsp;ekranu</b><br>
+    - koncert muzyki filmowej.</p>
+
     <p><b>Moniuszko remastered</b><br>
     - muzyka kameralna oraz autorskie, uwspółcześnione wersje pieśni Stanisława Moniuszki.</p>
     
