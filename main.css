@@ -29,6 +29,25 @@ p {
     padding: 0;
     padding-bottom: 1rem;
 }
+img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 1rem 0 2rem;
+}
+ul {
+    margin: 0;
+    padding: 0 0 1rem;
+}
+li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.9rem;
+}
+li span {
+    color: #7a7a7a;
+}
 .contact-link, .contact-link:visited, .contact-link:active {
     color: #d3d3d3;
     text-decoration: none;

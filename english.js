@@ -15,7 +15,14 @@ bioButton.addEventListener('click', () => {
     
     <p>The musicians' passion for the art of film resulted in the creation of the "Music from the Screen" project. The quartet presented film music, among others, during the <i>Sensational Summer of Films</i> festival in Kolobrzeg and the <i>American Film Festival</i> in Wroclaw.</p> 
     
-    <p>The inspiration for the group's activity is the desire to promote classical music. The quartet has many masterpieces of Polish and world chamber music in its repertoire, and is also eager to present the lighter side of classics.</p>`;
+    <p>The inspiration for the group's activity is the desire to promote classical music. The quartet has many masterpieces of Polish and world chamber music in its repertoire, and is also eager to present the lighter side of classics.</p>
+    <img src="./foto-poziome.jpg" alt="zdjęcie zespołu">
+    <ul>
+    <li>Aleksandra Pawłowska <span>- violin</span></li>
+    <li>Dorota Pindur <span>- violin</span></li>
+    <li>Monika Młynarczyk <span>- viola</span></li>
+    <li>Monika Łapka <span>- cello</span></li>
+    </ul>`;
     projectsButton.classList.remove("inactive");
     contactButton.classList.remove("inactive");
     }

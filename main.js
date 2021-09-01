@@ -16,7 +16,14 @@ bioButton.addEventListener('click', () => {
     
     <p>Łączące muzyków zamiłowanie do sztuki filmowej zaowocowało powstaniem projektu "Muzyka z&nbsp;ekranu". Kwartet prezentował muzykę filmową między innymi podczas festiwalu <i>Sensacyjne Lato Filmów</i> w&nbsp;Kołobrzegu oraz <i>American Film Festival</i> we&nbsp;Wrocławiu.</p> 
     
-    <p>Inspiracją dla działalności zespołu jest chęć propagowania muzyki poważnej. Kwartet ma w&nbsp;swoim repertuarze wiele arcydzieł kameralistyki polskiej i&nbsp;światowej, chętnie  prezentuje też lżejsze oblicza klasyki.</p>`;
+    <p>Inspiracją dla działalności zespołu jest chęć propagowania muzyki poważnej. Kwartet ma w&nbsp;swoim repertuarze wiele arcydzieł kameralistyki polskiej i&nbsp;światowej, chętnie  prezentuje też lżejsze oblicza klasyki.</p>
+    <img src="./foto-poziome.jpg" alt="zdjęcie zespołu">
+    <ul>
+    <li>Aleksandra Pawłowska <span>- skrzypce</span></li>
+    <li>Dorota Pindur <span>- skrzypce</span></li>
+    <li>Monika Młynarczyk <span>- altówka</span></li>
+    <li>Monika Łapka <span>- wiolonczela</span></li>
+    </ul>`;
     projectsButton.classList.remove("inactive");
     contactButton.classList.remove("inactive");
     }
