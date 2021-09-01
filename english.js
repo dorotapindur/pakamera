@@ -54,6 +54,7 @@ contactButton.addEventListener('click', () => {
     contactButton.classList.add("inactive");
     content.style.display = "block";
     content.innerHTML = `
+    <div style="width: auto; height: 200px; background: none"></div>
     <p class="darker">email: <a class="contact-link" href="mailto:pakamera.kwartet@wp.pl">pakamera.kwartet@wp.pl</a></p>
     <p class="darker">phone: <a class="contact-link" href="tel:+48601734123">+48 601 734 123</a></p>
     <p class="darker">Facebook / Messenger: <a class="contact-link" href="https://www.facebook.com/pakamera.kwartetsmyczkowy" rel="noopener noreferrer" target=_blank>Pakamera Kwartet Smyczkowy</a></p>`;
