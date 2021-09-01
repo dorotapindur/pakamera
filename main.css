@@ -3,7 +3,7 @@
 html {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
-    color: #e2e2e2;
+    color: #d3d3d3;
     margin: 0;
     padding: 0;
     background-color: black;
@@ -26,6 +26,20 @@ button {
     background: none;
     border: none;
     text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 1rem;
+}
+.contact-link, .contact-link:visited, .contact-link:active {
+    color: #d3d3d3;
+    text-decoration: none;
+}
+.contact-link:hover {
+    color: white;
 }
 .main {
     margin: 0 auto;
@@ -50,6 +64,7 @@ button {
     color: #7a7a7a;
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 .main-header {
     margin: 50vh 0 0 15px;
@@ -69,12 +84,12 @@ button {
     background: black;
     width: 70%;
     height: 90%;
-    padding: 10px 10px 15px 0;
+    padding: 10px 10px 90px 0;
     position: absolute;
     top: 50px;
     left: 10px;
     overflow-y: auto;
-    text-align: justify;
+    text-align: left;
 }
 .menu {
     width: 100%;
@@ -93,5 +108,11 @@ button {
 .menu-button {
     margin: 0;
     padding: 0;
-    color: #e2e2e2;
+    color: #d3d3d3;
+}
+.inactive {
+    color: #444444;
+}
+.darker {
+    color: #7a7a7a;
 }
