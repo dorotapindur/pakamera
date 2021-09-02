@@ -72,7 +72,7 @@ li span {
     max-width: 420px;
     height: 100%;
     overflow-y: auto;
-    background-image: url("background-photo.png");
+    background-image: url("./background-photo.png");
     background-repeat: no-repeat;
     background-position: top right;
     position: relative;
