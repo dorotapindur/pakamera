@@ -28,7 +28,7 @@ Podczas wieloletniej współpracy z&nbsp;tym renomowanym zespołem  miały okazj
 <li>Monika Młynarczyk <span>- altówka</span></li>
 <li>Monika Łapka <span>- wiolonczela</span></li>
 </ul>`;
-const bioEn = `<p>Pakamera String Quartet consists of artists associated with the NFM Leopoldinum Chamber Orchestra from Wroclaw. During many years of cooperation with this renowned ensemble, they had the opportunity to improve their skills in the field of chamber music under the supervision of outstanding figures of the music scene - Ernst Kovacic, Jerzy Maksymiuk, Günter Pichler and many others.
+const bioEn = `<p>Pakamera String Quartet is formed by artists associated with the NFM Leopoldinum Chamber Orchestra from Wroclaw. During many years of cooperation with this renowned ensemble, they had the opportunity to improve their skills in the field of chamber music under the supervision of outstanding figures of the music scene - Ernst Kovacic, Jerzy Maksymiuk, Günter Pichler and many others.
 </p>
 <p>Pakamera quartet is characterized by openness to various musical genres - it performs classical and contemporary music, but also does not shy away from popular music. The artists forming the quartet have a large number of recordings for the needs of cinema, theatre and television, as well as cooperation with performers of popular music.</p>
 
