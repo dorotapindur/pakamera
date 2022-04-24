@@ -25,7 +25,7 @@ Podczas wieloletniej współpracy z&nbsp;tym renomowanym zespołem  miały okazj
 <ul>
 <li>Aleksandra Pawłowska <span>- skrzypce</span></li>
 <li>Dorota Pindur <span>- skrzypce</span></li>
-<li>Monika Młynarczyk <span>- altówka</span></li>
+<li>Marzena Malinowska <span>- altówka</span></li>
 <li>Monika Łapka <span>- wiolonczela</span></li>
 </ul>`;
 const bioEn = `<p>Pakamera String Quartet is formed by artists associated with the NFM Leopoldinum Chamber Orchestra from Wroclaw. During many years of cooperation with this renowned ensemble, they had the opportunity to improve their skills in the field of chamber music under the supervision of outstanding figures of the music scene - Ernst Kovacic, Jerzy Maksymiuk, Günter Pichler and many others.
@@ -35,11 +35,11 @@ const bioEn = `<p>Pakamera String Quartet is formed by artists associated with t
 <p>The musicians' passion for the art of film resulted in the creation of the "Music from the Screen" project. The quartet presented film music, among others, during the <i>Sensational Summer of Films</i> festival in Kolobrzeg and the <i>American Film Festival</i> in Wroclaw.</p> 
 
 <p>The inspiration for the group's activity is the desire to promote classical music. The quartet has many masterpieces of Polish and world chamber music in its repertoire, and is also eager to present the lighter side of classics.</p>
-<img src="./foto-poziome.jpg" alt="zdjęcie zespołu">
+<img src="./foto-poziome.jpg" alt="Pakamera's photo">
 <ul>
 <li>Aleksandra Pawłowska <span>- violin</span></li>
 <li>Dorota Pindur <span>- violin</span></li>
-<li>Monika Młynarczyk <span>- viola</span></li>
+<li>Marzena Malinowska <span>- viola</span></li>
 <li>Monika Łapka <span>- cello</span></li>
 </ul>`;
 
