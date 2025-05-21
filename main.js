@@ -23,7 +23,7 @@ Podczas wieloletniej współpracy z&nbsp;tym renomowanym zespołem  miały okazj
 <p>Inspiracją dla działalności zespołu jest chęć propagowania muzyki poważnej. Kwartet ma w&nbsp;swoim repertuarze wiele arcydzieł kameralistyki polskiej i&nbsp;światowej, chętnie  prezentuje też lżejsze oblicza klasyki.</p>
 <img src="./foto-poziome.jpg" alt="zdjęcie zespołu">
 <ul>
-<li>Aleksandra Pawłowska <span>- skrzypce</span></li>
+<li>Aleksandra Pilone <span>- skrzypce</span></li>
 <li>Dorota Pindur <span>- skrzypce</span></li>
 <li>Marzena Malinowska <span>- altówka</span></li>
 <li>Monika Łapka <span>- wiolonczela</span></li>
@@ -37,7 +37,7 @@ const bioEn = `<p>Pakamera String Quartet is formed by artists associated with t
 <p>The inspiration for the group's activity is the desire to promote classical music. The quartet has many masterpieces of Polish and world chamber music in its repertoire, and is also eager to present the lighter side of classics.</p>
 <img src="./foto-poziome.jpg" alt="Pakamera's photo">
 <ul>
-<li>Aleksandra Pawłowska <span>- violin</span></li>
+<li>Aleksandra Pilone <span>- violin</span></li>
 <li>Dorota Pindur <span>- violin</span></li>
 <li>Marzena Malinowska <span>- viola</span></li>
 <li>Monika Łapka <span>- cello</span></li>
